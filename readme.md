@@ -38,13 +38,13 @@ A Python-based multiplayer guessing game that allows two players to compete agai
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Multiplayer-Guessing-Game.git
+https://github.com/aaqwesas/Guessing_Game.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd Multiplayer-Guessing-Game
+   cd Guessing_Game
    ```
 
 3. **Prepare User Credentials**
